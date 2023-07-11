@@ -45,8 +45,8 @@ with st.sidebar:
     nat=st.checkbox("Native",value=True)
     exo=st.checkbox("Exotic",value=True)
     values = st.slider(
-    'Altura (metros sobre el nivel del mar)',
-    100.0, 3000.0, (0.0, 3000.0))
+    label='Altura (metros sobre el nivel del mar)',
+    min_value=0.0,max_value= 6000.0, value= (0.0, 6000.0))
 
 
 #Selección de la columna exotic

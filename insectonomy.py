@@ -11,6 +11,8 @@ r=[]
 tabla=pd.read_csv("General.csv", sep=";")
 tabla2=tabla
 
+
+
 def crearDropdown(columna,ll,sust):
     #Crea un menu crearDropdown con las opciones únicas de cada columna
    # ll=tabla.columna.unique()
@@ -42,6 +44,10 @@ with st.sidebar:
     st.text("Especie nativa o exótica en Colombia?")
     nat=st.checkbox("Native",value=True)
     exo=st.checkbox("Exotic",value=True)
+    values = st.slider(
+    'Altura (metros sobre el nivel del mar)',
+    100.0, 3000.0, (0.0, 3000.0))
+
 
 #Selección de la columna exotic
 if nat and not exo:
@@ -52,6 +58,9 @@ else:
         tabla2=tabla[tabla["exotic"]=="Exotic"]
     else:
         tabla2=tabla
+        
+tabla2=tabla2[tabla2["AltitudMin"]>=values[0]]
+tabla2=tabla2[tabla2["AltitudMax"]<=values[1]]
  
 query=crearDropdown("Lifestage",tabla.Lifestage.unique(),"la etapa de vida")
 tabla2=tabla2[tabla2["Lifestage"].str.contains(query)]
@@ -59,8 +68,20 @@ tabla2=tabla2[tabla2["Lifestage"].str.contains(query)]
 query=crearDropdown("Biogeographicrealm",tabla.Biogeographicrealm.unique(),"los reinos biogeográficos")
 tabla2=tabla2[tabla2["Biogeographicrealm"].str.contains(query)]
 
-query=crearDropdown("Climate",tabla.Climate.unique(),"los climas")
-tabla2=tabla2[tabla2["Climate"].str.contains(query)]
+query=crearDropdown("Biome",tabla.Biome.unique(),"los climas")
+tabla2=tabla2[tabla2["Biome"].str.contains(query)]
+
+query=crearDropdown("CITES",tabla.CITES.unique(),"clasificación CITES")
+tabla2=tabla2[tabla2["CITES"].str.contains(query)]
+
+query=crearDropdown("IUCN",tabla.IUCN.unique(),"clasificación IUCN")
+tabla2=tabla2[tabla2["IUCN"].str.contains(query)]
+
+query=crearDropdown("LatitudinalRegions",tabla.LatitudinalRegions.unique(),"región latitudinal")
+tabla2=tabla2[tabla2["LatitudinalRegions"].str.contains(query)]
+
+query=crearDropdown("HabitOfActivity",tabla.HabitOfActivity.unique(),"hábitos")
+tabla2=tabla2[tabla2["HabitOfActivity"].str.contains(query)]
 
  
 #Seleccion de la zona

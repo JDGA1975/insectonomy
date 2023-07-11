@@ -1,104 +1,104 @@
-Common name;Scientific name;Biogeographicrealm;exotic;CITES clasification;IUCN clasification;zone;Climate;Biome;Annual precipitation (mm);Temperature (°C);Altitudinal belts;Latitudinal regions;Altitudinal distribution (m.a.s.l.);Habit of activity;Lifestage
-Grillo doméstico;Acheta domesticus;Paleartic;Exotic;N;DD;Asia;Moist forest;2000-4000;>24;Premontane;Tropical;0 - 1200;Diurnal/Nocturnal;Forest surface;Imago, Pupa
-Hormiga culona;Atta laevigata;Neotropical;Native;N;DD;Pacific, Andes ,  Orinoco regions;Moist forest;2000-4000;>24;Premontane;Tropical;500 - 1200;Diurnal/Nocturnal;Subsoil;Imago
-Cucaracha discoide;Blaberus discoidalis;Neotropical;Native;N;DD;Amazonas , Orinoco regions;Moist forest;2000-4000;>24;Premontane;Tropical;700 - 1600;Nocturnal;Forest surface;Imago, Pupa
-Cucaracha gigante;Blaberus giganteus;Neotropical;Native;N;DD;Amazonas , Orinoco regions;Moist forest;2000-4000;>24;Premontane;Tropical;0 - 1600;Nocturnal;Forest surface;Imago, Pupa
-Gusano de seda;Bombyx mori; Paleartic, Indomalayan;Exotic;N;DD;Asia;Dry forest;1000- 2000;>24;Premontane;Tropical;0 - 1700;Nocturnal;Undergrowth;Larva
-Pasionaria andina;Dione glycera;Neotropical;Native;N;DD;Pacific, Andes, Orinoco , Amazonas regions;Moist forest;2000-4000;>24;Premontane;Tropical;800 - 2000;Diurnal;Undergrowth;Larva, Pupa, Imagokile 
-Escarabajo hércules;Dynastes hercules;Neotropical;Native;N;DD;Amazonas , Pacific regions;Moist forest;2000-4000;>24;Premontane;Tropical;330 - 2100;Nocturnal;Forest surface;Larva, Pupa, Imago
-Gusano de la cera;Galleria mellonella;Paleartic, Afrotropical, Cosmopolitan;Exotic;N;DD;Africa , Asia;Moist forest;2000-4000;>24;Premontane;Tropical;0 - 1200;Nocturnal;Forest surface;Larva
-Grillo de campo;Gryllus assimilis;Neotropical;Native;N;DD;Pacífic, Andes, Orinoco, Amazonas , Insular regions;Moist forest;2000-4000;>24;Premontane;Tropical;0 - 1800;Diurnal/Nocturnal;Forest surface;Nymph, Imago
-Mosca soldado negra;Hermetia illucens;Neartic, Cosmopolitan;Exotic;N;DD;North America;Moist forest;2000-4000;>24;Premontane;Tropical;0 - 2000;Diurnal;Forest surface;Larva, Pupa, Imago
-Mantis religiosa;Mantis religiosa;Paleartic, Afrotropical;Exotic;N;LC;Europe, Africa;Moist forest;2000-4000;>24;Premontane;Tropical;0 - 1800;Diurnal;Undergrowth;Imago
-Morfo anacarada;Morpho rhodopteron;Neotropical;Native;N;DD;Caribe region;Moist forest;1000- 2000;12- 24;Lower montane ;Warm temperate;1600 - 2400;Diurnal;Forest canopy;Imago
-Mosca doméstica;Musca domestica;Neartic, Cosmopolitan;Exotic;N;DD;North America;Moist forest;2000-4000;>24;Premontane;Tropical;0 - 2200;Diurnal;Forest surface;Larva, Imago
-Escarabajo de la palma;Rhynchophorus palmarum;Neotropical;Native;N;DD;Amazonas region;Dry forest;1000- 2000;>24;Premontane;Tropical;0 - 1200;Diurnal;Subsoil;Larva
-Abeja mellipona;Scaptotrigona spp.;Neotropical;Native;N;DD;Pacific, Andes, Orinoco, Amazonas , Insular regions;Moist forest;2000-4000;>24;Premontane;Tropical;100 - 2600;Diurnal;Forest surface;Larva, Pupa, Imago
-Gusano de la harina;Tenebrio molitor;Paleartic, Afrotropical, Cosmopolitan;Exotic;N;DD;Europe, Africa;Moist forest;2000-4000;>24;Premontane;Tropical;0 - 1800;Nocturnal;Subsoil;Larva, Pupa, Imago
-Avispilla;Trichogramma exiguum;Neotropical;Native;N;DD;Pacific, Andes, Orinoco, Amazonas , Insular regions;Moist forest;2000-4000;>24;Premontane;Tropical;0 - 1200;Diurnal/Nocturnal;Forest surface;Imago
-Gusano rey;Zophobas morio;Neotropical;Exotic;N;DD;Central America;Moist forest;2000-4000;>24;Premontane;Tropical;0 - 2400;Diurnal/Nocturnal;Forest surface;Larva
-Escarabajo de los carrizos;Golofa porteri;Neotropical;Native;N;DD;Venezuela, Colombia, Guyana, Panama, Costa Rica , Nicaragua;Wet forest;1000- 2000;6- 12;Montane;Cool temperate;1000 - 3000;Diurnal/Nocturnal;Subsoil;Larva
-Hercules negro;Dynastes neptunus;Neotropical;Native;N;DD;Colombia, Venezuela, Ecuador , Peru;Rain forest;2000-4000;>24;Subalpine;Boreal;1500 - 3000;Nocturnal;Forest surface;Larva, Imago
-Escarabajo elefante;Megasoma elephas;Neotropical;Native;N;DD;Santander, Amazonas , Guaviare regions;Dry forest;1000- 2000;>24;Premontane;Tropical;0 - 500;Nocturnal;Subsoil;Larva, Imago
-Ciervo volante;Lucanus cervus;Paleartic;Exotic;N;DD;Europe;Moist forest;2000-4000;>24;Premontane;Tropical;0 -1500;Nocturnal;Subsoil;Larva, Imago
-Rinoceronte japones;Trypoxylus dichotomus;Paleartic;Exotic;N;DD;Japan;Moist forest;2000-4000;>24;Premontane;Tropical;0 - 1500;Nocturnal;Subsoil;Larva, Imago
-Mamacoca o mariposa de la coca;Eloria noyesi;Neotropical;Native;N;DD;Peru , Colombia;Moist forest;2000-4000;>24;Premontane;Tropical;800-2500;Diurnal/Nocturnal;Forest canopy;Larva, Imago
-Macaón;Papilio machaon;Paleartic, Neartic;Exotic;N;LC;Europe, Asia, Middle East , North America;Steppe;250 - 500;6- 12;Montane;Cool temperate;0-2000;Diurnal;Forest canopy;Imago
-Morfo gigante;Morpho didius;Neotropical;Native;N;DD;Colombia, Brasil , Venezuela;Moist forest;2000-4000;>24;Premontane;Tropical;200 - 1200;Diurnal;Forest canopy;Larva, Imago
-Mariposa Alas de pajaro Reina Alexandra;Ornithoptera alexandrae;Paleartic, Indomalayan;Exotic;I;EN;Asia;Moist forest;2000-4000;>24;Premontane;Tropical;0 - 6000;Diurnal;Forest canopy;Larva, Imago
-Cochinilla de rojo carmín;Dactylopius coccus;Afrotropical, Neotropical;Exotic;N;DD;Islas Canarias, México, Perú, Madagascar, Argentina, Sudáfrica;Desert scrub;125- 250;6- 12;Montane;Cool temperate;0-4000;Diurnal/Nocturnal;Forest surface;Imago
-Gusano del Mezcal;Comadia redtenbacheri;Neotropical;Exotic;N;DD;Colombia , Venezuela;Dry forest;125- 250;>24;Premontane;Tropical;0 - 2800;Nocturnal;Forest surface;Larva, Imago
-Avispa del pulgón;Aphidius colemani;Neotropical;Exotic;N;DD;Colombia , Venezuela;Moist forest;2000-4000;>24;Premontane;Tropical;0 - 1900;Diurnal;Forest surface;Imago
-Chapulin de la milpa;Sphenarium purpurascens;Neotropical;Exotic;N;DD;Mexico , Guatemala;Dry scrub;125- 250;3- 6;Subalpine;Boreal;500–2600;Diurnal;Forest surface;Nymph, Imago
-Mosca abejorro asesina;Laphria flava;Neotropical;Native;N;DD;Colombia , Venezuela;Moist forest;1000- 2000;12- 18;Lower montane ;Warm temperate;;Diurnal;Forest surface;Imago
-Mosca tigre;Eristalinus taeniops;Neartic, Neotropical;Exotic;N;DD;Europe, Asia, Africa, Sighting in Argentina , Brasil;Moist forest;1000- 2000;12- 18;Lower montane ;Warm temperate;0 - 550;Diurnal;Forest surface;Larva, Imago
-Chinche comestible;Euschistus taxcoensis;Neotropical;Exotic;N;DD;Mexico;Moist forest;1000- 2000;12- 18;Lower montane ;Warm temperate;0 - 2000;Nocturnal;Forest surface;Imago
-Cucaracha Argentina;Blaptica dubia;Neotropical;Exotic;N;DD;South America;Moist forest;1000- 2000;12- 18;Lower montane ;Warm temperate;0 - 1400;Nocturnal;Subsoil;Nymph, Imago
-Hormiga Europea;Messor barbarus;Paleartic;Exotic;N;DD;Iberian Peninsula, French Mediterranean Coast , North of the Italic Peninsula;Dry scrub;125- 250;3- 6;Subalpine;Boreal;0 - 1600;Diurnal or Nocturnal acording food availability;Subsoil, Meadows,,Plains;Imago
-Cocuyo;Pyrophorus noctilucus;Neotropical;Native;N;DD;Amazonas,Orinoquia regions;Moist forest;2000-4000;>24;Premontane;Tropical;0 - 2600;Nocturnal;Subsoil;Larva, Imago
-Escarabajo Aserrador arlequin;Acrocinus longimanus;Neotropical;Native;N;DD;Choco,Amazonas regions;Rain forest;8000- 16000;>24;Premontane;Tropical;30 - 1900;Nocturnal;Subsoil;Larva, Imago
-Escarabajo Manticora;Manticora scabra;Afrotropical;Exotic;N;DD;Botswana, Mozambique, Sudafrica, Tanzania, Zimbabwe;Desert scrub;125- 250;12- 18;Lower montane;Warm temperate;100 - 500;Nocturnal;Subsoil;Larva, Imago
-Hormiga India comestible;Oecophylla smaragdina;Neotropical;Exotic;N;DD;Tropical Asia,Australia;Moist forest;2000-4000;>24;Premontane;Tropical;;Diurnal;Forest surface;Larva, Imago
-Hormiga legionaria;Eciton burchellii;Neotropical;Native;N;DD;Central,South America;Moist forest;2000-4000;>24;Premontane;Tropical;0 – 2500;Diurnal/Nocturnal;Forest surface;Imago
-Chinche asesina gigante;Psytalla horrida;Afrotropical;Exotic;N;DD;Togo,Camerun;Dry forest;1000- 2000;>24;Premontane;Tropical;;Nocturnal;Subsoil;Imago
-Efimera;Haplohyphes huallaga;Neotropical;Exotic;N;DD;Peru;Dry forest;1000- 2000;>24;Premontane;Tropical;470 - 3100 ;Diurnal/Nocturnal;Forest surface;Larva, Imago
-Picudo del plátano;Cosmopolites sordidus;Neotropical;Native;N;DD;Cosmopolitan;Moist forest;1000- 2000;12- 18;Lower montane;Warm temperate;0 - 1600;Diurnal/Nocturnal;Vegetation;Larva
-Mariposa búho;Caligo eurilochus;Neotropical;Native;N;DD;Since south Mexico to south Brasil;Rain forest;4000 - 8000;12 - 24;Premontane;Tropical;0 - 1800;Crepuscular;Forest canopy;Imago
-Abejorro;Bombus atratus;Neotropical;Native;N;LC;Colombia,Venezuela ;Wet forest;1000- 2000;6- 12;Montane;Cool temperate;150 - 3500;Diurnal;Forest surface;Imago
-Cucaracha Colombiana ;Lucihormetica subcincta;Neotropical;Native;N;DD;Colombia;Moist forest;2000-4000;>24;Premontane;Tropical;900-1000;Crepuscular;Subsoil;Imago, Pupa
-Escarabajo opaco;Zophobas opacus;Neotropical;Exotic;N;DD;Peru forests;Moist forest;2000-4000;>24;Premontane;Tropical;110 - 450;Nocturnal;Subsoil, Forest surface;Imago, larvario
-Mosca soldado amarilla;Ptecticus trivittatus;Neartic,neotropical;Exotic;N;DD;North America, Mexico to Argentina;Moist forest;2000-4000;>24;Premontane;Tropical;0 - 1000;Diurnal;Forest surface;Larva, Pupa, Imago
-Escarabajo del estiercol;Alphitobius diaperinus;Afrotropical;Exotic;N;DD;Sub Saharan Africa;Wet forest;1000- 2000;6- 12;Montane;Cool temperate;2500 - 3300;Nocturnal;Subsoil, cracks in walls,floors;Larva
-Cigarra;Diceroprocta apache;Neartic,Neotropical;Exotic;N;DD;America;Moist forest;2000-4000;>24;Premontane;Tropical;0 - 1000;Diurnal/Nocturnal;Stems,leaves;Imago
-Gorgojos;Curculio spp.;Neartic,Neotropical;Native;N;DD;America;Moist forest;2000-4000;>24;Premontane;Tropical;0 - 1000;Diurnal/Nocturnal;Vegetation;Larva
-Hormiga negra;Camponotus pennsylvanicus;Neartic,Neotropical;Exotic;N;DD;North America,Central America;Moist forest;2000-4000;>24;Premontane;Tropical;0 - 1000;Nocturnal;Forest surface;Larva, Imago
-Abeja comun, domestica o europea;Apis mellifera;Paleartic;Exotic;N;DD;Europe;Dry forest;500 - 1000;12 - 24;Lower montane;Warm temperate;2000 - 3000;Diurnal;Forest surface;Larva, Pupa, Imago
-Escamoles;Liometopum spp;Paleartic, Neartic,Neotropical;Exotic;N;DD;Europe, Asia, North America  and Caribean;Moist forest;2000-4000;>24;Premontane;Tropical;0 - 1000;Diurnal/Nocturnal;Forest surface;Imago
-Hormiga arriera;Atta spp;Neartic and Neotropical;Exotic;N;DD;America;Dry forest;1000 - 2000;> 24;Premontane;Tropical;0 - 1000;Diurnal/Nocturnal;Subsoil;Imago
-Gorgojo chino del maní;Ulomoides dermestoides;Paleartic;Exotic;N;DD;China;Moist forest;500 - 1000;6 - 12;Montane;Cool temperate;2500 - 3300;Nocturnal;Ground litter;Larva, Pupa, Imago
-Cucaracha gigante de Madagascar;Gromphadorhina portentosa;Afrotropical;Exotic;N;DD;Madagascar;Dry forest;1000 - 2000;>24;Premontane;Tropical;0 - 1000;Nocturnal;Subsoil;Nymph, Imago
-Gusano de la harina;Tenebrio obscurus;Paleartic;Exotic;N;DD;Europe;Dry forest;500 - 1000;12 - 24;Lower montane;Warm temperate;2000 - 3000;Nocturnal;Subsoil;Pupa, Imago
-Mosca mediterranea de la fruta;Ceratitis capitata;Paleartic and Afrotropical;Exotic;N;DD;Occidental Africa coast;Moist forest;2000 - 4000;>24;Premontane;Tropical;0 - 1000;Diurnal;Forest surface;Larva
-Mosca verde botella;Lucilia sericata;Afrotropical, Neotropical and Oceanian;Native;N;DD;Africa, South America, South America and Oceania;Moist forest;1000 - 4000 ;>24;Premontane;Tropical;0 - 1000;Diurnal;Forest surface;Larva, Imago
-Mosca de la cara;Musca autumnalis;Paleartic and Indomalayan;Exotic;N;DD;Europe, Asia, Middle orient and India;Dry forest;1000- 2000;>24;Premontane;Tropical;100 - 2000;Diurnal;Forest surface;Larva, Pupa
-;Scapsipedus icipe;Afrotropical;Exotic;N;DD;Kenya;Very Dry forest;500 - 1000;>24;Premontane;Tropical;100 - 2000;Diurnal;Forest surface;Nymph, Imago
-Cucaracha de agua africana;Lethocerus cordofanus ;Afrotropical;Exotic;N;DD;Africa;Very Dry forest;500 - 1000;>24;Premontane;Tropical;0 - 1000;Nocturnal;Rivers;Nymph, Imago
-Mopane worm;Imbrasia spp;Afrotropical;Exotic;N;DD;Africa;Very Dry forest;500 - 1000;>24;Premontane;Tropical;0 - 1000;Nocturnal;Forest canopy;Larva, Imago
-;Anaphe panda;Afrotropical;Exotic;N;DD;Cameroon, Republic of the Congo, Equatorial Guinea, Kenya, Malawi, South Africa, Tanzania and Gambia;Dry forest;500 - 1000;12 - 24;Lower montane;Warm temperate;2000 - 3000;Nocturnal;Forest canopy;Larva, Imago
-;Carebara vidua;Afrotropical;Exotic;N;DD;South Africa;Dry forest;500 - 1000;12 - 24;Lower montane;Warm temperate;2000 - 3000;Diurnal/Nocturnal;Subsoil;Imago
-Nsenene;Ruspolia  differens;Afrotropical;Exotic;N;DD;Uganda;Dry forest;1000 - 2000;>24;Premontane;Tropical;100 - 2000;Diurnal;Forest surface;Nymph, Imago
-mosca del lago;Chaoborus edulis;Afroropical;Exotic;N;DD;Africa;Very Dry forest;500 - 1000;>24;Premontane;Tropical;0 - 1000;Nocturnal;Forest surface;Larva
-;Encosternum spp;Afrotropical;Exotic;N;DD;Africa;Very Dry forest;500 - 1000;>24;Premontane;Tropical;0 - 1000;Nocturnal;Stems and leaves;Nymph, Imago
-Langosta arboricola de Sahel;Anacridium melanorhodon;Afrotropical;Exotic;N;DD;Africa;Very Dry forest;500 - 1000;>24;Premontane;Tropical;0 - 1000;Diurnal;Forest surface;Nymph, Imago
-Termitas; Macrotermes subhyalinus;Afrotropical;Exotic;N;DD;Africa;Very Dry forest;500 - 1000;>24;Premontane;Tropical;0 - 1000;Diurnal/Nocturnal;Wood;Nymph, Imago
-Saltamontes;Ruspolia nitidula;Afrotropical;Exotic;N;DD;Africa and Meridional Europe;Very Dry forest;500 - 1000;>24;Premontane;Tropical;0 - 1000;Diurnal;Forest surface;Nymph, Imago
-Langosta migratoria;Locusta migratoria ;Afrotropical and Paleartic;Exotic;N;DD;Europe, Asia and Africa;Very Dry forest;500 - 1000;>24;Premontane;Tropical;0 - 1000;Diurnal;Forest surface;Nymph, Imago
-Gusano del bambú;Omphisa fuscidentalis;Paleartic and Indomalayan;Exotic;N;DD; Northern Thailand, northern Laos, northern Myanmar, and  Yunnan (China);Moist forest;500 - 1000;6 - 12;Montane;Cool temperate;2500 - 3300;Nocturnal;Sumsoil and wood;Larva, Imago
-Langosta de Bombay;Patanga succincta;Paleartic and Indomalayan;Exotic;N;DD;India and southeast Asia;Moist forest;1000 - 2000;12 - 24;Premontane;Subtropical;1000 - 1800;Diurnal;Forest surface;Nymph, Imago
-Picudos de la palmera;Rhynchophorus ferrugineus;Paleartic and Indomalayan;Exotic;N;DD;Tropical Asia;Moist forest;1000 - 2000;12 - 24;Premontane;Subtropical;1000 - 1800;Diurnal;Subsoil;Larva
-Chinches apestosos;Aspongopus nepalensis ;Paleartic and Afrotropical;Exotic;N;DD;South/Southeast Asia and Africa;Very Dry forest;500 - 1000;>24;Premontane;Tropical;0 - 1000;Nocturnal;Stems and leaves;Nymph, Imago
-Mariquita asiática multicolor, catarina;Harmonia axyridis;Paleartic;Exotic;N;DD;Asia, especially China;Moist forest;500 - 1000;6 - 12;Montane;Cool temperate;;Diurnal;Leaves;Larva, Imago
-Hormiga de la madera;Formica rufa;Paleartic;Exotic;N;NT;Europe;Dry forest;500 - 1000;12 - 24;Lower montane;Warm temperate;2500 - 3300;Diurnal;Forest surface;Larva, Imago
-Luciérnaga europea;Lampyris noctiluca;Paleartic;Exotic;N;DD;Portugal, Ireland, Iberian Peninsula, to East China;Wet forest;2000 - 4000;12 - 24;Lower montane;Warm temperate;1800 - 2000;Nocturnal;Shore of water bodies;Larva, Pupa Imago
-Polilla Bogong;Agrotis infusa;Australian and Oceanian;Exotic;N;EN;Cranberra (Australia) and New Zealand;Moist forest;1000 - 2000;12 - 24;Lower montane;Warm temperate;1800 - 2000;Nocturnal;Forest surface;Larva, Imago
-Hormiga negra mielera;Camponotus inflatus;Australian;Exotic;N;DD;Australia;Desert scrub;125 - 250;>24;Premontane;Tropical;400 - 1300;Diurnal;Forest surface;Larva, Imago
-Hormiga roja de miel;Melophorus bagoti;Australian;Exotic;N;DD;Australia;Desert scrub;125 - 250;>24;Premontane;Tropical;400 - 1300;Diurnal;Forest surface;Larva, Imago
-Polilla diablo;Creatonotos gangis;Indomalayan and Australian;Exotic;N;DD;Southeast Asia and Australia;Desert scrub;125 - 250;>24;Premontane;Tropical;400 - 1300;Nocturnal;Forest surface;Larva, Imago
-Insecto weta;;Oceanian;Exotic;N;DD;New Zealand;Moist forest;1000 - 2000;12 - 24;Lower montane;Warm temperate;1800 - 2000;Nocturnal;Subsoil;Nymph, Imago
-Escarabajo de la madera putrefacta;Passalus sp;Neartic and Neotropical;Native;N;DD;America;Moist forest;1000 - 2000;12 - 24;Lower montane;Warm temperate;1800 - 2000;Nocturnal;Rotten wood;Larva, Imago
-Cucaracha verde o cubana;Panchlora nivea;Neartic and Neotropical;Native;N;DD;North America, Cuba and Colombia;Very Dry forest;500 - 1000;>24;Premontane;Tropical;0 - 1000;Nocturnal;Subsoil;Nymph, Imago
-Escarabajo verde de junio, pipiol;Cotinis mutabilis;Neartic;Exotic;N;DD;Southern half of North America;Dry forest;1000 - 2000;>24;Premontane;Subtropical;100 - 2000;Nocturnal;Soil;Larva
-Acolote, manfe o patudo;Corydalus cornutus;Neartic;Exotic;N;DD;North America;Moist forest;1000 - 2000;12 - 24;Lower montane;Warm temperate;1800 - 2000;Diurnal/Nocturnal;Vegetation;Larva, Imago
-Mariposa monarca;Danaus plexippus ;Neartic and Neotropical;Native;N;DD;North America, Central America and Nortern of South America;Dry forest;1000 - 2000;>24;Premontane;Tropical;100 - 2000;Diurnal;Vegetation;Larva, Imago
-Mosca nariz de reno;Cephenemyia trompe;Neartic;Exotic;N;DD;North America artic zones;Moist forest;500 - 1000;6 - 12;Montane;Cool temperate;2500 - 3300;Diurnal;Forest surface;Larva
-Mosca nariz de reno;Hypoderma tarandi;Neartic;Exotic;N;DD;North America artic zones;Moist forest;500 - 1000;6 - 12;Montane;Cool temperate;2500 - 3300;Diurnal;Forest surface;Larva
-Escarabajos de junio;Phyllophaga spp;Neartic and Neotropical;Native;N;DD;North America and South America;Moist forest;1000 - 2000;12 - 24;Lower montane;Warm temperate;0 - 1600;Nocturnal;Soil;Larva, imago
-Barrenador del sauco;Desmocerus palliatus;Neartic;Exotic;N;DD;U.S.A and Canada;Moist forest;1000 - 2000;12 - 24;Lower montane;Warm temperate;0 - 1600;Nocturnal;Subsoil;Larva, Imago
-Gusano del maguey;Hypopta agavis;Neartic and Neotropical;Exotic;N;DD;North America and Mexico;Dry forest;1000 - 2000;>24;Premontane;Subtropical;100 - 2000;Nocturnal;Forest surface;Larva, Imago
-;Eleodes longicollis;Neotropical and Indomalayan;Native;N;DD;North America, Mexico, Colombia and India;Very Dry forest;500 - 1000 ;>24;Premontane;Tropical;100 - 2000;Nocturnal;Subsoil;Larva, Pupa, Imago
-Escarabajo diablo verde;Oxysternon conspicillatum;Neotropical;Native;N;DD;Central America and South America;Dry forest;1000 - 2000;>24;Premontane;Tropical;100 - 2000;Diurnal;Soil;Larva, Imago
-Escarabajo joya;Anomala spp;Neotropical;Native;N;DD;Central America and South America;Dry forest;1000 - 2000;>24;Premontane;Tropical;100 - 2000;Nocturnal;Subsoil;Larva
-Escarabajo gigante de cuernos largos, aserrador imperioso;Enoplocerus armillatus;Neotropical;Native;N;DD;Since Costa Rica to Argentina and Brasil;Moist forest;1000 - 2000;12 -24;Premontane;Subtropical;1000 - 1800;Nocturnal;Subsoil;Larva, Imago
-Ciervo volante;Cantharolethrus luxerii luxerii ;Neotropical;Native;N;DD;Colombia, Costa Rica,Panama;Very Dry forest;500 - 1000 ;>24;Premontane;Tropical;0 - 1000;Nocturnal;Subsoil;Larva, Imago
-Cucaracha roja;Periplaneta americana;Cosmopolitan;Exotic;N;DD;Native to Africa but distributed worldwide;Very Dry forest;500 - 1000;>24;Premontane;Tropical;0 - 1000;Nocturnal;Subsoil;Nymph, Imago
-Mosca de la fruta o del vinagre;Drosophila melanogaster;Cosmopolitan;Exotic;N;DD;Native to Africa but distributed worldwide;Very Dry forest;500 - 1000;>24;Premontane;Tropical;0 - 1000;Diurnal;Forest surface;Larva
+Common name;Scientific name;Biogeographicrealm;exotic;CITES;IUCN;zone;Biome;Annual precipitation (mm);Temperature (°C);Altitudinal belts;LatitudinalRegions;AltitudMin;AltitudMax;HabitOfActivity;HabitUse;Lifestage
+Grillo doméstico;Acheta domesticus;Paleartic;Exotic;N;DD;Asia;Moist forest;2000-4000;>24;Premontane;Tropical;0;1200;Diurnal/Nocturnal;Forest surface;Imago, Pupa
+Hormiga culona;Atta laevigata;Neotropical;Native;N;DD;Pacific, Andes ,  Orinoco regions;Moist forest;2000-4000;>24;Premontane;Tropical;500;1200;Diurnal/Nocturnal;Subsoil;Imago
+Cucaracha discoide;Blaberus discoidalis;Neotropical;Native;N;DD;Amazonas , Orinoco regions;Moist forest;2000-4000;>24;Premontane;Tropical;700;1600;Nocturnal;Forest surface;Imago, Pupa
+Cucaracha gigante;Blaberus giganteus;Neotropical;Native;N;DD;Amazonas , Orinoco regions;Moist forest;2000-4000;>24;Premontane;Tropical;0;1600;Nocturnal;Forest surface;Imago, Pupa
+Gusano de seda;Bombyx mori; Paleartic, Indomalayan;Exotic;N;DD;Asia;Dry forest;1000- 2000;>24;Premontane;Tropical;0;1700;Nocturnal;Undergrowth;Larva
+Pasionaria andina;Dione glycera;Neotropical;Native;N;DD;Pacific, Andes, Orinoco , Amazonas regions;Moist forest;2000-4000;>24;Premontane;Tropical;800;2000;Diurnal;Undergrowth;Larva, Pupa, Imagokile 
+Escarabajo hércules;Dynastes hercules;Neotropical;Native;N;DD;Amazonas , Pacific regions;Moist forest;2000-4000;>24;Premontane;Tropical;330;2100;Nocturnal;Forest surface;Larva, Pupa, Imago
+Gusano de la cera;Galleria mellonella;Paleartic, Afrotropical, Cosmopolitan;Exotic;N;DD;Africa , Asia;Moist forest;2000-4000;>24;Premontane;Tropical;0;1200;Nocturnal;Forest surface;Larva
+Grillo de campo;Gryllus assimilis;Neotropical;Native;N;DD;Pacífic, Andes, Orinoco, Amazonas , Insular regions;Moist forest;2000-4000;>24;Premontane;Tropical;0;1800;Diurnal/Nocturnal;Forest surface;Nymph, Imago
+Mosca soldado negra;Hermetia illucens;Neartic, Cosmopolitan;Exotic;N;DD;North America;Moist forest;2000-4000;>24;Premontane;Tropical;0;2000;Diurnal;Forest surface;Larva, Pupa, Imago
+Mantis religiosa;Mantis religiosa;Paleartic, Afrotropical;Exotic;N;LC;Europe, Africa;Moist forest;2000-4000;>24;Premontane;Tropical;0;1800;Diurnal;Undergrowth;Imago
+Morfo anacarada;Morpho rhodopteron;Neotropical;Native;N;DD;Caribe region;Moist forest;1000- 2000;12- 24;Lower montane ;Warm temperate;1600;2400;Diurnal;Forest canopy;Imago
+Mosca doméstica;Musca domestica;Neartic, Cosmopolitan;Exotic;N;DD;North America;Moist forest;2000-4000;>24;Premontane;Tropical;0;2200;Diurnal;Forest surface;Larva, Imago
+Escarabajo de la palma;Rhynchophorus palmarum;Neotropical;Native;N;DD;Amazonas region;Dry forest;1000- 2000;>24;Premontane;Tropical;0;1200;Diurnal;Subsoil;Larva
+Abeja mellipona;Scaptotrigona spp.;Neotropical;Native;N;DD;Pacific, Andes, Orinoco, Amazonas , Insular regions;Moist forest;2000-4000;>24;Premontane;Tropical;100;2600;Diurnal;Forest surface;Larva, Pupa, Imago
+Gusano de la harina;Tenebrio molitor;Paleartic, Afrotropical, Cosmopolitan;Exotic;N;DD;Europe, Africa;Moist forest;2000-4000;>24;Premontane;Tropical;0;1800;Nocturnal;Subsoil;Larva, Pupa, Imago
+Avispilla;Trichogramma exiguum;Neotropical;Native;N;DD;Pacific, Andes, Orinoco, Amazonas , Insular regions;Moist forest;2000-4000;>24;Premontane;Tropical;0;1200;Diurnal/Nocturnal;Forest surface;Imago
+Gusano rey;Zophobas morio;Neotropical;Exotic;N;DD;Central America;Moist forest;2000-4000;>24;Premontane;Tropical;0;2400;Diurnal/Nocturnal;Forest surface;Larva
+Escarabajo de los carrizos;Golofa porteri;Neotropical;Native;N;DD;Venezuela, Colombia, Guyana, Panama, Costa Rica , Nicaragua;Wet forest;1000- 2000;6- 12;Montane;Cool temperate;1000;3000;Diurnal/Nocturnal;Subsoil;Larva
+Hercules negro;Dynastes neptunus;Neotropical;Native;N;DD;Colombia, Venezuela, Ecuador , Peru;Rain forest;2000-4000;>24;Subalpine;Boreal;1500;3000;Nocturnal;Forest surface;Larva, Imago
+Escarabajo elefante;Megasoma elephas;Neotropical;Native;N;DD;Santander, Amazonas , Guaviare regions;Dry forest;1000- 2000;>24;Premontane;Tropical;0;500;Nocturnal;Subsoil;Larva, Imago
+Ciervo volante;Lucanus cervus;Paleartic;Exotic;N;DD;Europe;Moist forest;2000-4000;>24;Premontane;Tropical;0;1500;Nocturnal;Subsoil;Larva, Imago
+Rinoceronte japones;Trypoxylus dichotomus;Paleartic;Exotic;N;DD;Japan;Moist forest;2000-4000;>24;Premontane;Tropical;0;1500;Nocturnal;Subsoil;Larva, Imago
+Mamacoca o mariposa de la coca;Eloria noyesi;Neotropical;Native;N;DD;Peru , Colombia;Moist forest;2000-4000;>24;Premontane;Tropical;800;2500;Diurnal/Nocturnal;Forest canopy;Larva, Imago
+Macaón;Papilio machaon;Paleartic, Neartic;Exotic;N;LC;Europe, Asia, Middle East , North America;Steppe;250 - 500;6- 12;Montane;Cool temperate;0;2000;Diurnal;Forest canopy;Imago
+Morfo gigante;Morpho didius;Neotropical;Native;N;DD;Colombia, Brasil , Venezuela;Moist forest;2000-4000;>24;Premontane;Tropical;200;1200;Diurnal;Forest canopy;Larva, Imago
+Mariposa Alas de pajaro Reina Alexandra;Ornithoptera alexandrae;Paleartic, Indomalayan;Exotic;I;EN;Asia;Moist forest;2000-4000;>24;Premontane;Tropical;0;6000;Diurnal;Forest canopy;Larva, Imago
+Cochinilla de rojo carmín;Dactylopius coccus;Afrotropical, Neotropical;Exotic;N;DD;Islas Canarias, México, Perú, Madagascar, Argentina, Sudáfrica;Desert scrub;125- 250;6- 12;Montane;Cool temperate;0;4000;Diurnal/Nocturnal;Forest surface;Imago
+Gusano del Mezcal;Comadia redtenbacheri;Neotropical;Exotic;N;DD;Colombia , Venezuela;Dry forest;125- 250;>24;Premontane;Tropical;0;2800;Nocturnal;Forest surface;Larva, Imago
+Avispa del pulgón;Aphidius colemani;Neotropical;Exotic;N;DD;Colombia , Venezuela;Moist forest;2000-4000;>24;Premontane;Tropical;0;1900;Diurnal;Forest surface;Imago
+Chapulin de la milpa;Sphenarium purpurascens;Neotropical;Exotic;N;DD;Mexico , Guatemala;Dry scrub;125- 250;3- 6;Subalpine;Boreal;500;2600;Diurnal;Forest surface;Nymph, Imago
+Mosca abejorro asesina;Laphria flava;Neotropical;Native;N;DD;Colombia , Venezuela;Moist forest;1000- 2000;12- 18;Lower montane ;Warm temperate;;;Diurnal;Forest surface;Imago
+Mosca tigre;Eristalinus taeniops;Neartic, Neotropical;Exotic;N;DD;Europe, Asia, Africa, Sighting in Argentina , Brasil;Moist forest;1000- 2000;12- 18;Lower montane ;Warm temperate;0;550;Diurnal;Forest surface;Larva, Imago
+Chinche comestible;Euschistus taxcoensis;Neotropical;Exotic;N;DD;Mexico;Moist forest;1000- 2000;12- 18;Lower montane ;Warm temperate;0;2000;Nocturnal;Forest surface;Imago
+Cucaracha Argentina;Blaptica dubia;Neotropical;Exotic;N;DD;South America;Moist forest;1000- 2000;12- 18;Lower montane ;Warm temperate;0;1400;Nocturnal;Subsoil;Nymph, Imago
+Hormiga Europea;Messor barbarus;Paleartic;Exotic;N;DD;Iberian Peninsula, French Mediterranean Coast , North of the Italic Peninsula;Dry scrub;125- 250;3- 6;Subalpine;Boreal;0;1600;Diurnal or Nocturnal acording food availability;Subsoil, Meadows,,Plains;Imago
+Cocuyo;Pyrophorus noctilucus;Neotropical;Native;N;DD;Amazonas,Orinoquia regions;Moist forest;2000-4000;>24;Premontane;Tropical;0;2600;Nocturnal;Subsoil;Larva, Imago
+Escarabajo Aserrador arlequin;Acrocinus longimanus;Neotropical;Native;N;DD;Choco,Amazonas regions;Rain forest;8000- 16000;>24;Premontane;Tropical;30;1900;Nocturnal;Subsoil;Larva, Imago
+Escarabajo Manticora;Manticora scabra;Afrotropical;Exotic;N;DD;Botswana, Mozambique, Sudafrica, Tanzania, Zimbabwe;Desert scrub;125- 250;12- 18;Lower montane;Warm temperate;100;500;Nocturnal;Subsoil;Larva, Imago
+Hormiga India comestible;Oecophylla smaragdina;Neotropical;Exotic;N;DD;Tropical Asia,Australia;Moist forest;2000-4000;>24;Premontane;Tropical;;;Diurnal;Forest surface;Larva, Imago
+Hormiga legionaria;Eciton burchellii;Neotropical;Native;N;DD;Central,South America;Moist forest;2000-4000;>24;Premontane;Tropical;0;2500;Diurnal/Nocturnal;Forest surface;Imago
+Chinche asesina gigante;Psytalla horrida;Afrotropical;Exotic;N;DD;Togo,Camerun;Dry forest;1000- 2000;>24;Premontane;Tropical;;;Nocturnal;Subsoil;Imago
+Efimera;Haplohyphes huallaga;Neotropical;Exotic;N;DD;Peru;Dry forest;1000- 2000;>24;Premontane;Tropical;470;3100;Diurnal/Nocturnal;Forest surface;Larva, Imago
+Picudo del plátano;Cosmopolites sordidus;Neotropical;Native;N;DD;Cosmopolitan;Moist forest;1000- 2000;12- 18;Lower montane;Warm temperate;0;1600;Diurnal/Nocturnal;Vegetation;Larva
+Mariposa búho;Caligo eurilochus;Neotropical;Native;N;DD;Since south Mexico to south Brasil;Rain forest;4000 - 8000;12 - 24;Premontane;Tropical;0;1800;Crepuscular;Forest canopy;Imago
+Abejorro;Bombus atratus;Neotropical;Native;N;LC;Colombia,Venezuela ;Wet forest;1000- 2000;6- 12;Montane;Cool temperate;150;3500;Diurnal;Forest surface;Imago
+Cucaracha Colombiana ;Lucihormetica subcincta;Neotropical;Native;N;DD;Colombia;Moist forest;2000-4000;>24;Premontane;Tropical;900;1000;Crepuscular;Subsoil;Imago, Pupa
+Escarabajo opaco;Zophobas opacus;Neotropical;Exotic;N;DD;Peru forests;Moist forest;2000-4000;>24;Premontane;Tropical;110;450;Nocturnal;Subsoil, Forest surface;Imago, larvario
+Mosca soldado amarilla;Ptecticus trivittatus;Neartic,neotropical;Exotic;N;DD;North America, Mexico to Argentina;Moist forest;2000-4000;>24;Premontane;Tropical;0;1000;Diurnal;Forest surface;Larva, Pupa, Imago
+Escarabajo del estiercol;Alphitobius diaperinus;Afrotropical;Exotic;N;DD;Sub Saharan Africa;Wet forest;1000- 2000;6- 12;Montane;Cool temperate;2500;3300;Nocturnal;Subsoil, cracks in walls,floors;Larva
+Cigarra;Diceroprocta apache;Neartic,Neotropical;Exotic;N;DD;America;Moist forest;2000-4000;>24;Premontane;Tropical;0;1000;Diurnal/Nocturnal;Stems,leaves;Imago
+Gorgojos;Curculio spp.;Neartic,Neotropical;Native;N;DD;America;Moist forest;2000-4000;>24;Premontane;Tropical;0;1000;Diurnal/Nocturnal;Vegetation;Larva
+Hormiga negra;Camponotus pennsylvanicus;Neartic,Neotropical;Exotic;N;DD;North America,Central America;Moist forest;2000-4000;>24;Premontane;Tropical;0;1000;Nocturnal;Forest surface;Larva, Imago
+Abeja comun, domestica o europea;Apis mellifera;Paleartic;Exotic;N;DD;Europe;Dry forest;500 - 1000;12 - 24;Lower montane;Warm temperate;2000;3000;Diurnal;Forest surface;Larva, Pupa, Imago
+Escamoles;Liometopum spp;Paleartic, Neartic,Neotropical;Exotic;N;DD;Europe, Asia, North America  and Caribean;Moist forest;2000-4000;>24;Premontane;Tropical;0;1000;Diurnal/Nocturnal;Forest surface;Imago
+Hormiga arriera;Atta spp;Neartic and Neotropical;Exotic;N;DD;America;Dry forest;1000 - 2000;> 24;Premontane;Tropical;0;1000;Diurnal/Nocturnal;Subsoil;Imago
+Gorgojo chino del maní;Ulomoides dermestoides;Paleartic;Exotic;N;DD;China;Moist forest;500 - 1000;6 - 12;Montane;Cool temperate;2500;3300;Nocturnal;Ground litter;Larva, Pupa, Imago
+Cucaracha gigante de Madagascar;Gromphadorhina portentosa;Afrotropical;Exotic;N;DD;Madagascar;Dry forest;1000 - 2000;>24;Premontane;Tropical;0;1000;Nocturnal;Subsoil;Nymph, Imago
+Gusano de la harina;Tenebrio obscurus;Paleartic;Exotic;N;DD;Europe;Dry forest;500 - 1000;12 - 24;Lower montane;Warm temperate;2000;3000;Nocturnal;Subsoil;Pupa, Imago
+Mosca mediterranea de la fruta;Ceratitis capitata;Paleartic and Afrotropical;Exotic;N;DD;Occidental Africa coast;Moist forest;2000 - 4000;>24;Premontane;Tropical;0;1000;Diurnal;Forest surface;Larva
+Mosca verde botella;Lucilia sericata;Afrotropical, Neotropical and Oceanian;Native;N;DD;Africa, South America, South America and Oceania;Moist forest;1000 - 4000 ;>24;Premontane;Tropical;0;1000;Diurnal;Forest surface;Larva, Imago
+Mosca de la cara;Musca autumnalis;Paleartic and Indomalayan;Exotic;N;DD;Europe, Asia, Middle orient and India;Dry forest;1000- 2000;>24;Premontane;Tropical;100;2000;Diurnal;Forest surface;Larva, Pupa
+;Scapsipedus icipe;Afrotropical;Exotic;N;DD;Kenya;Very Dry forest;500 - 1000;>24;Premontane;Tropical;100;2000;Diurnal;Forest surface;Nymph, Imago
+Cucaracha de agua africana;Lethocerus cordofanus ;Afrotropical;Exotic;N;DD;Africa;Very Dry forest;500 - 1000;>24;Premontane;Tropical;0;1000;Nocturnal;Rivers;Nymph, Imago
+Mopane worm;Imbrasia spp;Afrotropical;Exotic;N;DD;Africa;Very Dry forest;500 - 1000;>24;Premontane;Tropical;0;1000;Nocturnal;Forest canopy;Larva, Imago
+;Anaphe panda;Afrotropical;Exotic;N;DD;Cameroon, Republic of the Congo, Equatorial Guinea, Kenya, Malawi, South Africa, Tanzania and Gambia;Dry forest;500 - 1000;12 - 24;Lower montane;Warm temperate;2000;3000;Nocturnal;Forest canopy;Larva, Imago
+;Carebara vidua;Afrotropical;Exotic;N;DD;South Africa;Dry forest;500 - 1000;12 - 24;Lower montane;Warm temperate;2000;3000;Diurnal/Nocturnal;Subsoil;Imago
+Nsenene;Ruspolia  differens;Afrotropical;Exotic;N;DD;Uganda;Dry forest;1000 - 2000;>24;Premontane;Tropical;100;2000;Diurnal;Forest surface;Nymph, Imago
+mosca del lago;Chaoborus edulis;Afroropical;Exotic;N;DD;Africa;Very Dry forest;500 - 1000;>24;Premontane;Tropical;0;1000;Nocturnal;Forest surface;Larva
+;Encosternum spp;Afrotropical;Exotic;N;DD;Africa;Very Dry forest;500 - 1000;>24;Premontane;Tropical;0;1000;Nocturnal;Stems and leaves;Nymph, Imago
+Langosta arboricola de Sahel;Anacridium melanorhodon;Afrotropical;Exotic;N;DD;Africa;Very Dry forest;500 - 1000;>24;Premontane;Tropical;0;1000;Diurnal;Forest surface;Nymph, Imago
+Termitas; Macrotermes subhyalinus;Afrotropical;Exotic;N;DD;Africa;Very Dry forest;500 - 1000;>24;Premontane;Tropical;0;1000;Diurnal/Nocturnal;Wood;Nymph, Imago
+Saltamontes;Ruspolia nitidula;Afrotropical;Exotic;N;DD;Africa and Meridional Europe;Very Dry forest;500 - 1000;>24;Premontane;Tropical;0;1000;Diurnal;Forest surface;Nymph, Imago
+Langosta migratoria;Locusta migratoria ;Afrotropical and Paleartic;Exotic;N;DD;Europe, Asia and Africa;Very Dry forest;500 - 1000;>24;Premontane;Tropical;0;1000;Diurnal;Forest surface;Nymph, Imago
+Gusano del bambú;Omphisa fuscidentalis;Paleartic and Indomalayan;Exotic;N;DD; Northern Thailand, northern Laos, northern Myanmar, and  Yunnan (China);Moist forest;500 - 1000;6 - 12;Montane;Cool temperate;2500;3300;Nocturnal;Sumsoil and wood;Larva, Imago
+Langosta de Bombay;Patanga succincta;Paleartic and Indomalayan;Exotic;N;DD;India and southeast Asia;Moist forest;1000 - 2000;12 - 24;Premontane;Subtropical;1000;1800;Diurnal;Forest surface;Nymph, Imago
+Picudos de la palmera;Rhynchophorus ferrugineus;Paleartic and Indomalayan;Exotic;N;DD;Tropical Asia;Moist forest;1000 - 2000;12 - 24;Premontane;Subtropical;1000;1800;Diurnal;Subsoil;Larva
+Chinches apestosos;Aspongopus nepalensis ;Paleartic and Afrotropical;Exotic;N;DD;South/Southeast Asia and Africa;Very Dry forest;500 - 1000;>24;Premontane;Tropical;0;1000;Nocturnal;Stems and leaves;Nymph, Imago
+Mariquita asiática multicolor, catarina;Harmonia axyridis;Paleartic;Exotic;N;DD;Asia, especially China;Moist forest;500 - 1000;6 - 12;Montane;Cool temperate;;;Diurnal;Leaves;Larva, Imago
+Hormiga de la madera;Formica rufa;Paleartic;Exotic;N;NT;Europe;Dry forest;500 - 1000;12 - 24;Lower montane;Warm temperate;2500;3300;Diurnal;Forest surface;Larva, Imago
+Luciérnaga europea;Lampyris noctiluca;Paleartic;Exotic;N;DD;Portugal, Ireland, Iberian Peninsula, to East China;Wet forest;2000 - 4000;12 - 24;Lower montane;Warm temperate;1800;2000;Nocturnal;Shore of water bodies;Larva, Pupa Imago
+Polilla Bogong;Agrotis infusa;Australian and Oceanian;Exotic;N;EN;Cranberra (Australia) and New Zealand;Moist forest;1000 - 2000;12 - 24;Lower montane;Warm temperate;1800;2000;Nocturnal;Forest surface;Larva, Imago
+Hormiga negra mielera;Camponotus inflatus;Australian;Exotic;N;DD;Australia;Desert scrub;125 - 250;>24;Premontane;Tropical;400;1300;Diurnal;Forest surface;Larva, Imago
+Hormiga roja de miel;Melophorus bagoti;Australian;Exotic;N;DD;Australia;Desert scrub;125 - 250;>24;Premontane;Tropical;400;1300;Diurnal;Forest surface;Larva, Imago
+Polilla diablo;Creatonotos gangis;Indomalayan and Australian;Exotic;N;DD;Southeast Asia and Australia;Desert scrub;125 - 250;>24;Premontane;Tropical;400;1300;Nocturnal;Forest surface;Larva, Imago
+Insecto weta;;Oceanian;Exotic;N;DD;New Zealand;Moist forest;1000 - 2000;12 - 24;Lower montane;Warm temperate;1800;2000;Nocturnal;Subsoil;Nymph, Imago
+Escarabajo de la madera putrefacta;Passalus sp;Neartic and Neotropical;Native;N;DD;America;Moist forest;1000 - 2000;12 - 24;Lower montane;Warm temperate;1800;2000;Nocturnal;Rotten wood;Larva, Imago
+Cucaracha verde o cubana;Panchlora nivea;Neartic and Neotropical;Native;N;DD;North America, Cuba and Colombia;Very Dry forest;500 - 1000;>24;Premontane;Tropical;0;1000;Nocturnal;Subsoil;Nymph, Imago
+Escarabajo verde de junio, pipiol;Cotinis mutabilis;Neartic;Exotic;N;DD;Southern half of North America;Dry forest;1000 - 2000;>24;Premontane;Subtropical;100;2000;Nocturnal;Soil;Larva
+Acolote, manfe o patudo;Corydalus cornutus;Neartic;Exotic;N;DD;North America;Moist forest;1000 - 2000;12 - 24;Lower montane;Warm temperate;1800;2000;Diurnal/Nocturnal;Vegetation;Larva, Imago
+Mariposa monarca;Danaus plexippus ;Neartic and Neotropical;Native;N;DD;North America, Central America and Nortern of South America;Dry forest;1000 - 2000;>24;Premontane;Tropical;100;2000;Diurnal;Vegetation;Larva, Imago
+Mosca nariz de reno;Cephenemyia trompe;Neartic;Exotic;N;DD;North America artic zones;Moist forest;500 - 1000;6 - 12;Montane;Cool temperate;2500;3300;Diurnal;Forest surface;Larva
+Mosca nariz de reno;Hypoderma tarandi;Neartic;Exotic;N;DD;North America artic zones;Moist forest;500 - 1000;6 - 12;Montane;Cool temperate;2500;3300;Diurnal;Forest surface;Larva
+Escarabajos de junio;Phyllophaga spp;Neartic and Neotropical;Native;N;DD;North America and South America;Moist forest;1000 - 2000;12 - 24;Lower montane;Warm temperate;0;1600;Nocturnal;Soil;Larva, imago
+Barrenador del sauco;Desmocerus palliatus;Neartic;Exotic;N;DD;U.S.A and Canada;Moist forest;1000 - 2000;12 - 24;Lower montane;Warm temperate;0;1600;Nocturnal;Subsoil;Larva, Imago
+Gusano del maguey;Hypopta agavis;Neartic and Neotropical;Exotic;N;DD;North America and Mexico;Dry forest;1000 - 2000;>24;Premontane;Subtropical;100;2000;Nocturnal;Forest surface;Larva, Imago
+;Eleodes longicollis;Neotropical and Indomalayan;Native;N;DD;North America, Mexico, Colombia and India;Very Dry forest;500 - 1000 ;>24;Premontane;Tropical;100;2000;Nocturnal;Subsoil;Larva, Pupa, Imago
+Escarabajo diablo verde;Oxysternon conspicillatum;Neotropical;Native;N;DD;Central America and South America;Dry forest;1000 - 2000;>24;Premontane;Tropical;100;2000;Diurnal;Soil;Larva, Imago
+Escarabajo joya;Anomala spp;Neotropical;Native;N;DD;Central America and South America;Dry forest;1000 - 2000;>24;Premontane;Tropical;100;2000;Nocturnal;Subsoil;Larva
+Escarabajo gigante de cuernos largos, aserrador imperioso;Enoplocerus armillatus;Neotropical;Native;N;DD;Since Costa Rica to Argentina and Brasil;Moist forest;1000 - 2000;12 -24;Premontane;Subtropical;1000;1800;Nocturnal;Subsoil;Larva, Imago
+Ciervo volante;Cantharolethrus luxerii luxerii ;Neotropical;Native;N;DD;Colombia, Costa Rica,Panama;Very Dry forest;500 - 1000 ;>24;Premontane;Tropical;0;1000;Nocturnal;Subsoil;Larva, Imago
+Cucaracha roja;Periplaneta americana;Cosmopolitan;Exotic;N;DD;Native to Africa but distributed worldwide;Very Dry forest;500 - 1000;>24;Premontane;Tropical;0;1000;Nocturnal;Subsoil;Nymph, Imago
+Mosca de la fruta o del vinagre;Drosophila melanogaster;Cosmopolitan;Exotic;N;DD;Native to Africa but distributed worldwide;Very Dry forest;500 - 1000;>24;Premontane;Tropical;0;1000;Diurnal;Forest surface;Larva

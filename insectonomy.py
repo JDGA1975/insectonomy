@@ -3,7 +3,7 @@ import pandas as pd
 import re
 
 st.title("Página Principal Insectonomy")
-st.subheader("Resultados de la bussqueda")
+st.subheader("Resultados de la busqueda")
 #st.text("Página para navegar los datos.")
 
 r=[]
@@ -68,11 +68,9 @@ with st.sidebar:
     reinos=st.multiselect("Seleccione los reinos de interés",realms)
 
 query=""
-realms
 for i in reinos:
     query=query+i+"|"
 query=query[0:-1]
-query
 tabla2=tabla2[tabla2["Biogeographicrealm"].str.contains(query)]
 
 
@@ -88,6 +86,8 @@ for i in climas:
 query=query[0:-1]
 tabla2=tabla2[tabla2["Climate"].str.match(query)]
 
+
+st.text("Total especies desplegadas %d"%len(tabla2))
 
 tabla2
             

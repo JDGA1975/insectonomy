@@ -70,8 +70,8 @@ tabla2=tabla2[tabla2["Fam"].str.contains(query)]
 query=crearDropdown(col1,tabla.ComNa.unique(),"Common Name (ComNa)")
 tabla2=tabla2[tabla2["ComNa"].str.contains(query)]
 
-query=crearDropdown(col1,tabla.BiogRe.unique(),"Biogeographic realm (BiogRe)")
-tabla2=tabla2[tabla2["BiogRe"].str.contains(query)]
+#query=crearDropdown(col1,tabla.BiogRe.unique(),"Biogeographic realm (BiogRe)")
+#tabla2=tabla2[tabla2["BiogRe"].str.contains(query)]
 
 query=crearDropdown(col1,tabla.CITES.unique(),"CITES classification (CITES)")
 tabla2=tabla2[tabla2["CITES"].str.contains(query)]

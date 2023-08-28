@@ -80,8 +80,8 @@ tabla2=tabla2[tabla2["CITES"].str.contains(query)]
 query=crearDropdown(col1,tabla.IUCN.unique(),"IUCN classification (IUCN)")
 tabla2=tabla2[tabla2["IUCN"].str.contains(query)]
 
-query=crearDropdown(col1,tabla.BiogZo.unique(),"Biogeographic Zone (BiogZo)")
-tabla2=tabla2[tabla2["BiogZo"].str.contains(query)]
+#query=crearDropdown(col1,tabla.BiogZo.unique(),"Biogeographic Zone (BiogZo)")
+#tabla2=tabla2[tabla2["BiogZo"].str.contains(query)]
 
 query=crearDropdown(col1,tabla.HoldBio.unique(),"Holdrige Biome (HoldBio)")
 tabla2=tabla2[tabla2["HoldBio"].str.contains(query)]

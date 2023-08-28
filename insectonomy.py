@@ -70,17 +70,17 @@ tabla2=tabla2[tabla2["Fam"].str.contains(query)]
 query=crearDropdown(col1,tabla.ComNa.unique(),"Common Name (ComNa)")
 tabla2=tabla2[tabla2["ComNa"].str.contains(query)]
 
-query=crearDropdown(col1,tabla.BiogRe.unique(),"Common Name (BiogRe)")
+query=crearDropdown(col1,tabla.BiogRe.unique(),"Biogeographic realm (BiogRe)")
 tabla2=tabla2[tabla2["BiogRe"].str.contains(query)]
 
-query=crearDropdown(col1,tabla.CITES.unique(),"Common Name (CITES)")
+query=crearDropdown(col1,tabla.CITES.unique(),"CITES classification (CITES)")
 tabla2=tabla2[tabla2["CITES"].str.contains(query)]
 
 
-query=crearDropdown(col1,tabla.IUCN.unique(),"IUCN classification")
+query=crearDropdown(col1,tabla.IUCN.unique(),"IUCN classification (IUCN)")
 tabla2=tabla2[tabla2["IUCN"].str.contains(query)]
 
-query=crearDropdown(col1,tabla.BiogZo.unique(),"Biogeographic Realm (BiogZo)")
+query=crearDropdown(col1,tabla.BiogZo.unique(),"Biogeographic Zone (BiogZo)")
 tabla2=tabla2[tabla2["BiogZo"].str.contains(query)]
 
 query=crearDropdown(col1,tabla.HoldBio.unique(),"Holdrige Biome (HoldBio)")

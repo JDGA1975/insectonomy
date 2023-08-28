@@ -8,7 +8,7 @@
 7;Insecta;Coleoptera;Scarabaeidae;Hercules Beetle;Dynastes hercules;Neotropical;N;DD;South America;Moist forest;2000 - 4000;>24;Premontane;Tropical;1000 - 1800;Nocturnal;Forest surface;Larva, Pupa, Imago
 8;Insecta;Lepidoptera;Pyralidae;Wax moth;Galleria mellonella;Paleartic, Afrotropical, Cosmopolitan;N;DD;Africa, Asia;Moist forest;2000 - 4000;>24;Premontane;Tropical;1000 - 1800;Nocturnal;Forest surface;Larva
 9;Insecta;Ortoptera;Gryllidae;Jamaican field cricket;Gryllus assimilis;Neotropical;N;DD;South America;Moist forest;2000 - 4000;>24;Premontane;Tropical;1000 - 1800;Diurnal, nocturnal;Forest surface;Nymph, Imago
-10;Insecta;Diptera;Stratiomyidae;Black soldier fly;Hermetia illucens;Neartic, Cosmopolitan;N;DD;North America;Moist forest;2000 - 4000;>24;Premontane;Tropical;1000 - 1800;Diurnal;Forest surface;Larva, Pupa, Imago
+10;Insecta;Diptera;Stratiomyidae;Black soldier fly;Hermetia illucens;Neotropical, Cosmopolitan;N;DD;North America,Cosmopolitan;Moist forest;2000 - 4000;>24;Premontane;Tropical;1000 - 1800;Diurnal;Forest surface;Larva, Pupa, Imago
 11;Insecta;Mantodea;Mantidae;Praying mantis;Mantis religiosa;Paleartic, Afrotropical;N;LC;Africa, Europe;Moist forest;2000 - 4000;>24;Premontane;Tropical;1000 - 1800;Diurnal;Undergrowth;Imago
 12;Insecta;Lepidoptera;Nymphalide;Blue emperor butterfly;Morpho rhodopteron;Neotropical;N;DD;Central America, South America;Moist forest;1000 - 2000;12 - 24;Lower montane ;Warm temperate;1800 - 2000;Diurnal;Forest canopy;Imago
 13;Insecta;Diptera;Muscidae;House fly;Musca domestica;Neartic, Cosmopolitan;N;DD;North America;Moist forest;2000 - 4000;>24;Premontane;Tropical;1000 - 1800;Diurnal;Forest surface;Larva, Imago
